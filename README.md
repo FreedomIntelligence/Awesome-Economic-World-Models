@@ -1752,6 +1752,7 @@ world.log(...) -> world.evaluate(...)
 | Co-evolution | Productive adaptation without instability | Adaptation gain, drift, recalibration quality |
 | Real-world alignment | Empirical fit and bounded correction | State, price, volume, and volatility errors |
 | Efficiency | Scalability across agents, markets, and horizons | Runtime, memory use, parallel efficiency |
+- **[LevelBench-100 & Apex SMB Financial Worlds](https://github.com/levelcfo/levelbench-100)** - Multi-system economic and accounting world evaluation benchmark testing frontier agents across 10 realistic company environments and 100 close workflows ([Report](https://levelcfo.com/benchmarks/agentic-accounting/)).
 
 ## 🧭 Engineering Path to Economic World Models
 
